@@ -12,5 +12,5 @@ Integrantes:
     trabaja de forma grupal).
 
 
-nota: modificacion. Usar el entorno que te proporciona github es util como copilot
+nota: modificacion. Usar el entorno que te proporciona github es muy util, como las herremaientas de copilot
 y otras cosas
