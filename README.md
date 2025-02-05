@@ -11,3 +11,6 @@ Integrantes:
     constantemente, y llevar el historial de estos cambios es algo esencial sobretodo cuando se
     trabaja de forma grupal).
 
+
+nota: modificacion. Usar el entorno que te proporciona github es util como copilot
+y otras cosas
