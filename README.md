@@ -11,3 +11,9 @@ Integrantes:
     constantemente, y llevar el historial de estos cambios es algo esencial sobretodo cuando se
     trabaja de forma grupal).
 
+<<<<<<< HEAD
+=======
+
+nota: modificacion. Usar el entorno que te proporciona github es muy util, como las herremaientas de copilot
+y otras cosas
+>>>>>>> rama-diego
