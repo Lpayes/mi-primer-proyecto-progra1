@@ -1,0 +1,25 @@
+i.  ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+	R//Aprendi que github es una plataforma donde se puede alojar código, esta es
+	 en linea lo que significa que puedes compartir, colaborar y trabajar en tus
+	 proyectos. ademas que ofrece una catidad de herramientas y opciones para la
+	 coordinación con el trabajo en equipo. finalmente esta plataforma en linea
+	 ya tiene una comnidad bien establecida, esto es una gran ventaja porque
+	 permite acceder a repositorios de otras personas, aprender de sus proyectos y
+	 recibir retroalimentación.
+
+	Junto con Git crea una excelnte sinergia dado que git es un controlador de
+	versiones donde su fuerte es la yuda a gestionar proyectos sin necesidad de
+	crear múltiples versiones manualmente, ya que mantiene un historial detallado
+	de cambios. Esto resulta muy útil en situaciones donde se pierde parte del código,
+	ya que se puede revisar el historial para recuperarlo. También es una gran 
+	herramienta para detectar errores, porque si un proyecto deja de funcionar tras una 
+	modificación, el historial permite identificar exactamente qué cambio causó el problema.
+
+ii.  ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontrastealgún conflicto? ¿Cómo lo resolviste?
+	R// encontre problemas sobretodo al fusionar mis cambios y el de mi compañero al archivo principal
+	sobretodo con el readme.md. tuve que hacer commits corrigiendo las tildes y los marcadores de 
+	error <<<<<head, nos llevo un tiempo pero al final lo solucionamos y aprendimos de esta experiencia.
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+	R//Pues lo más fundamental de hacer proyectos de progra en equipo, es el orden y la legibilidad de este,
+	ademas de saber lo que aporto y modifico la persona en el proyecto.
