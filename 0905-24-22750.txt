@@ -1,0 +1,40 @@
+i.	¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+           R// Trabajar con Git y GitHub me permite gestionar el código de manera organizada 
+               y eficiente. Empezando con Git, que es local, puedo crear ramas para desarrollar 
+               nuevas funcionalidades o realizar cambios sin afectar el código principal. Esto me da la 
+               libertad de trabajar libremente y probar sin riesgo. Para guardar mis cambios, utilizo
+               el comando commit, para registrar los cambios de manera local. Luego, cuando todo 
+               está listo, subo esos cambios al repositorio remoto en GitHub con push. Git también me permite 
+               ver el estado de mis archivos con el comando status, y revisar el historial de cambios con 
+               log, lo que facilita el seguimiento de todo el trabajo realizado.
+
+               GitHub es como una red social para ingenieros, donde puedo subir mi código y compartirlo con 
+               otras personas. Es un lugar en línea donde puedo guardar mis proyectos y colaborar en conjunto, 
+               por ejemplo: con mi compañero Diego, ambos usamos GitHub para subir nuestros cambios. Cada uno 
+               de nosotros pudo jalar los cambios del otro directamente a nuestro proyecto local con el comando 
+               git pull. Esto nos permitió trabajar de manera sincronizada. Además, GitHub permite ver el historial 
+               de todo lo que ha pasado en el proyecto y tener todo bien organizado.
+
+ii.	 ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+           R// Trabajar en equipo me permitió mejorar mis habilidades de comunicación y organización. Mientras 
+               trabajaba en mi rama, encontré un conflicto al intentar fusionarla con main, debido a que mi compañero hizo un 
+               push con sus cambios, lo que actualizó la rama main antes de que realizara la fusión, y eso generó el conflicto 
+               al momento de fusionar las ramas, ya que no coincidía con la versión base de main en la que había comenzado a trabajar. 
+               Aunque él no modificó las mismas líneas que yo, el conflicto surgió porque mi cambio de  quitar las tildes afectó el contenido 
+               de la nueva versión de main de mi compañero, al estar modificando una versión que ya había sido actualizada por su push, Git no pudo 
+               fusionar automáticamente las versiones.
+
+               Tenía el repositorio abierto en Visual Studio Community 2022, ya vinculado localmente, cuando abrí el archivo 
+               README en la rama main, me apareció un mensaje indicando que había diferencias entre las versiones. Usando la 
+               interfaz de Visual Studio, pude comparar mi versión local (rama lester), la versión actual de main en el repositorio 
+               remoto, pude revisar las diferencias y decidir qué cambios conservar. En este caso, elegí mantener los cambios que 
+               había realizado, como quitar las tildes de algunas palabras, para seguir un formato específico y evitar caracteres extraños. 
+               Después de comparar las versiones y resolver los conflictos, realicé un commit para guardar los cambios y completar la fusión. 
+
+iii.	 ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+           R// Git facilita el trabajo en equipo al permitir un control de versiones, gestionando los cambios de todos los miembros sin perder 
+               información. Aunque nos pueden surgir conflictos si se modifican o cambian las mismas líneas, nos permite saber cuáles son y resolverlas. 
+               Las ramas permiten modificar el proyecto o hacer cambios de prueba sin afectar la versión principal, lo que mantiene el flujo de trabajo 
+               sin interrupciones. Además, permite regresar a versiones anteriores si se cometen errores, lo que nos da
+               seguridad y al mismo tiempo facilita la corrección de fallos sin perder el control.
+ 
