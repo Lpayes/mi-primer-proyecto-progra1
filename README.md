@@ -13,4 +13,4 @@ Integrantes:
 
 
 nota: modificacion. Usar el entorno que te proporciona github es muy util, como las herremaientas de copilot
-y otras cosas
+y otras cosas.
